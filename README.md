@@ -33,3 +33,5 @@ Here are some ideas to get you started:
 ![Motorola](https://img.shields.io/badge/Motorola-%23E1140A.svg?style=for-the-badge&logo=motorola&logoColor=white)
   
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=Shyaldir&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  
+[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
