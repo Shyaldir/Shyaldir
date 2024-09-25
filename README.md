@@ -26,6 +26,7 @@ Here are some ideas to get you started:
   <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a> 
   <a href="https://www.adobe.com/br/products/premiere.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/premierepro/premierepro-original.svg" alt="premierepro" width="40" height="40"/> </a> 
   <a href="https://www.adobe.com/br/products/illustrator.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="40" height="40"/> </a>
+  <a href="https://www.adobe.com/br/products/aftereffects.html" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" alt="after" width="40" height="40" /> </a>
   
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
